@@ -1,0 +1,53 @@
+{
+    "product": [
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Midi sundress with shirring detail",
+            "description": "This is for all the lastest trends, no matter",
+            "price": 29.9,
+            "availablesSizes": ["X", "L", "XL", "XXL"]
+        },
+        {
+            "_id": "dress1",
+            "image": "/images/dress1.jpg",
+            "title": "Midi sundress with ruched front",
+            "description": "about dress 1",
+            "price": 18.9,
+            "availablesSizes": ["X","M", "L"]
+        },
+        {
+            "_id": "dress3",
+            "image": "/images/dress3.jpg",
+            "title": "Midi dress in pink ditsy floral",
+            "description": "about dress 1",
+            "price": 14.9,
+            "availablesSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress4",
+            "image": "/images/dress4.jpg",
+            "title": "cami maxi dress in polka dot 1",
+            "description": "This is for all the lastest trends, no matter",
+            "price": 25.9,
+            "availablesSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress5",
+            "image": "/images/dress5.jpg",
+            "title": "Dress 1",
+            "description": "This is for all the lastest trends, no matter",
+            "price": 19,
+            "availablesSizes": ["XL", "XXL"]
+        },
+        {
+            "_id": "dress6",
+            "image": "/images/dress6.jpg",
+            "title": "Dress 1",
+            "description": "This is for all the lastest trends, no matter",
+            "price": 19,
+            "availablesSizes": ["XL", "XXL"]
+        }
+        
+    ]
+}
