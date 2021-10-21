@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
 
 html{
   font-size: 62.5%;
@@ -73,6 +73,8 @@ footer {
   flex: 1 20rem;
 }
 
+/* Product */
+
 .products{
   display: flex;
   flex-wrap: wrap;
@@ -132,3 +134,18 @@ button:hover{
 .button-primary{
   background-color: #f0c040;
 }
+
+/* Filter */
+
+.filter{
+  display: flex;
+  padding: 1rem;
+  margin: 1rem;
+  border-bottom: 0.1rem #c0c0c0 solid;
+  justify-content: space-between;
+}
+
+,filter div{
+  flex:1;
+}
+
