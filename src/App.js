@@ -1,7 +1,17 @@
+
 import React from "react";
 import Cart from "./components/Cart";
 import Filter from "./components/Filter";
 import Products from "./components/Products";
+
+// Feature 1
+// Feature 2
+// Feature 3
+
+import React from "react";
+
+
+
 
 import data from './data.json'
 
@@ -93,6 +103,7 @@ class App extends React.Component {
         <a href="/">React Shopping Cart</a>
       </header>
       <main>
+
           <div className="content">
             <div className="main">
               <Filter count={this.state.products.length}
@@ -114,6 +125,9 @@ class App extends React.Component {
               </Cart>
             </div>
           </div>
+
+          Product List
+
       </main>
         <footer>
           All right reserved.
