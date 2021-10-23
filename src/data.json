@@ -3,15 +3,15 @@
         {
             "_id": "dress1",
             "image": "/images/product_img1.jpg",
-            "title": "Midi sundress with shirring detail",
+            "title": "Midi sundress with shirring detail Midi sundress with shirring detail",
             "description": "This is for all the lastest trends, no matter",
             "price": 29.9,
             "availablesSizes": ["X", "L", "XL", "XXL"]
         },
         {
-            "_id": "dress1",
+            "_id": "dress2",
             "image": "/images/product_img2.jpg",
-            "title": "Midi sundress with ruched front",
+            "title": "Midi sundress with ruched front Midi sundress with ruched front",
             "description": "about dress 1",
             "price": 18.9,
             "availablesSizes": ["X","M", "L"]
@@ -19,7 +19,7 @@
         {
             "_id": "dress3",
             "image": "/images/product_img3.jpg",
-            "title": "Midi dress in pink ditsy floral",
+            "title": "Midi dress in pink ditsy floral Midi dress in pink ditsy floral",
             "description": "about dress 1",
             "price": 14.9,
             "availablesSizes": ["XL", "XXL"]
